@@ -1,0 +1,108 @@
+{
+ "nguon": "../goc/nen_infographic.mp4",
+ "phan_tich": "phan_tich.json",
+ "ra": "../ra",
+ "ten": "gia-vang-22-11-boc-hoi-10",
+ "phong_cach": "chuyen_gia",
+ "khung": {
+  "reframe": "giua"
+ },
+ "doan": [
+  {
+   "t0": 0.0,
+   "t1": 64.2,
+   "zoom": 1.0,
+   "giu_lang": true
+  }
+ ],
+ "cat_lang": null,
+ "hook": {
+  "kicker": "GIÁ VÀNG 22/11",
+  "dong1": "VÀNG BỐC HƠI GẦN 10%",
+  "dong2": "BÁN HAY BẮT ĐÁY?",
+  "dur": 3.2,
+  "y": 0.12
+ },
+ "phu_de": {
+  "bat": true,
+  "so_chu": 5,
+  "co": 70,
+  "tu_khoa": [
+   "10%",
+   "6 triệu",
+   "SJC",
+   "Fed",
+   "USD",
+   "5 triệu",
+   "9/15",
+   "3.500 USD",
+   "bắt đáy",
+   "lợi suất"
+  ],
+  "cach_day": 0.2
+ },
+ "chu_dong": [],
+ "am": {
+  "nhac": "../goc/epic2.ogg",
+  "nhac_vol": 0.18,
+  "sfx": false,
+  "long_tieng": {
+   "giong": "bac-nam",
+   "cau": [
+    {
+     "doc": "Vàng thế giới vừa bốc hơi gần mười phần trăm, chỉ trong một tuần.",
+     "chu": "Vàng thế giới vừa bốc hơi gần 10%, chỉ trong một tuần."
+    },
+    {
+     "doc": "Vàng miếng ét giây xê mất hơn sáu triệu mỗi lượng ở chiều mua.",
+     "chu": "Vàng miếng SJC mất hơn 6 triệu mỗi lượng ở chiều mua."
+    },
+    "Khi giá vàng rơi như vậy, nhất định đừng vội bán tháo, cũng đừng vội bắt đáy.",
+    {
+     "doc": "Sáng nay, hai mươi hai tháng mười một, ét giây xê niêm yết một trăm hai mươi tám phẩy năm triệu mua vào, một trăm ba mươi ba phẩy năm triệu bán ra.",
+     "chu": "Sáng nay 22/11, SJC niêm yết 128,5 triệu mua vào, 133,5 triệu bán ra."
+    },
+    {
+     "doc": "Vàng thế giới chốt tuần ở ba nghìn năm trăm mười bốn đô la một ao xơ, có lúc chạm mức thấp nhất mười bốn tháng.",
+     "chu": "Vàng thế giới chốt tuần ở 3.514 USD/ounce, có lúc chạm mức thấp nhất 14 tháng."
+    },
+    "Thực ra, vàng giảm không phải vì hết giá trị.",
+    {
+     "doc": "Dòng tiền đang bị hút về đồng đô la, khi thị trường đặt cược phét tăng lãi suất vào tháng mười hai.",
+     "chu": "Dòng tiền đang bị hút về đồng USD, khi thị trường đặt cược Fed tăng lãi suất vào tháng 12."
+    },
+    "Giống như con nước rút: nước không biến mất, nó chỉ chảy về nơi có lợi suất cao hơn.",
+    {
+     "doc": "Đô la mạnh, lợi suất trái phiếu Mỹ tăng, giữ vàng trở nên kém hấp dẫn.",
+     "chu": "USD mạnh, lợi suất trái phiếu Mỹ tăng, giữ vàng trở nên kém hấp dẫn."
+    },
+    "Thêm cổ phiếu công nghệ bị bán tháo, nhiều người buộc phải bán vàng để bù lỗ.",
+    {
+     "doc": "Nhưng hãy nhớ: mua vàng miếng hôm nay rồi bán lại ngay, bạn đã lỗ năm triệu mỗi lượng.",
+     "chu": "Nhưng hãy nhớ: mua vàng miếng hôm nay rồi bán lại ngay, bạn đã lỗ 5 triệu mỗi lượng."
+    },
+    {
+     "doc": "Khảo sát của Kít cô: chín trên mười lăm chuyên gia phố Uôn vẫn nghiêng về giảm trong tuần tới.",
+     "chu": "Khảo sát của Kitco: 9/15 chuyên gia Phố Wall vẫn nghiêng về giảm trong tuần tới."
+    },
+    "Bắt đáy bằng cảm xúc là cách nhanh nhất để mất tiền.",
+    {
+     "doc": "Hãy nhìn vàng qua ba bộ lọc: lãi suất phét, đồng đô la, và chênh lệch mua bán.",
+     "chu": "Hãy nhìn vàng qua 3 bộ lọc: lãi suất Fed, đồng USD, và chênh lệch mua bán."
+    },
+    {
+     "doc": "Mốc ba nghìn năm trăm đô la là ranh giới cần theo dõi.",
+     "chu": "Mốc 3.500 USD là ranh giới cần theo dõi."
+    },
+    "Theo bạn, vàng có giữ được mốc này không? Bình luận bên dưới nhé."
+   ]
+  },
+  "giu_tieng_goc": 0
+ },
+ "mau": "none",
+ "logo": false,
+ "cta": {
+  "text": "THEO DÕI ĐỂ CẬP NHẬT GIÁ VÀNG MỖI NGÀY",
+  "dur": 3.0
+ }
+}

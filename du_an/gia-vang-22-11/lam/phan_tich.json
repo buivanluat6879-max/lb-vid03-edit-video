@@ -1,0 +1,16 @@
+{
+ "thong_so": {
+  "w": 1080,
+  "h": 1920,
+  "fps": 30,
+  "dur": 64.2,
+  "co_tieng": false
+ },
+ "ngon_ngu": "vi",
+ "kieu_doan": "thuyet_minh",
+ "do_sang_tb": 60,
+ "chuyen_canh": [],
+ "khoang_lang": [],
+ "cau": [],
+ "mat": []
+}
